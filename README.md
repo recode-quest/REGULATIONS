@@ -18,3 +18,6 @@ Archive password:
 - Password is optional if archive is not password-protected
 - Allowed hosting sites - we.tl, zippyshare.com, drive.google.com, mega.nz
 - One has to include README.md file with instructions on how to build and/or run solution, including necessary dependencies if needed
+
+# Time limit
+Remember to send your solution before the deadline or your submission won't be listed on our main repo.
