@@ -5,10 +5,12 @@ If you're scared of using github, you can send us your solution to our mail - re
 You're reading on, it means git ain't a big deal for you, so simply fork main branch, include 'final' prefix or suffix within README file's title whenever the solution is ready to be published and skip mentioned requirements except of readme ones.
 
 # Schema
+```
 Download URL:
 Framework:
 Nickname:
 Archive password:
+```
 
 - Max unpacked project size 30 MB
 - Project packed into a RAR/7Z archive with/without password
